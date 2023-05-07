@@ -7,3 +7,4 @@
 * [ފްރަންޓް އެންޑް ކޯޑެވެ](https://github.com/xxai-art/web)
 * [މުޅި ސައިޓަށް ލެންގުއޭޖް ޕެކްސް](https://github.com/xxai-art/web/tree/main/i18n)
 * [ލޮގިން މޮޑިއުލްތަކަށް ބޭނުންވާ ލޭންގުއޭޖް ޕެކްތައް](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [ވެބްސައިޓް މަލްޓިލިންގުއަލް ޑޮކިއުމަންޓޭޝަން](https://github.com/xxai-doc)
